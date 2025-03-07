@@ -1,0 +1,24 @@
+# Archivos de compilación y dependencias
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Configuración de usuario y entornos de desarrollo
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de configuración generados por dotnet
+appsettings.Development.json
+appsettings.Local.json
+
+# Archivos específicos de macOS y Linux
+.DS_Store
+*.swp
